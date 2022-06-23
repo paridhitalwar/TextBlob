@@ -2928,5 +2928,6 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="young" cornetto_synset_id="d_a-9357" wordnet_id="a-01646941" pos="JJ" sense="(used of living things especially persons) in an early period of life or development or growth" polarity="0.1" subjectivity="0.4" intensity="1.0" confidence="0.8" />
 <word form="younger" wordnet_id="a-02101382" pos="JJ" sense="used of the younger of two persons of the same name especially used to distinguish a son from his father" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.9" />
 <word form="youngish" cornetto_synset_id="n_a-514159" wordnet_id="a-01649651" pos="JJ" sense="somewhat young" polarity="0.4" subjectivity="0.8" intensity="1.0" confidence="0.8" />
+<word form="youngish" cornetto_synset_id="n_a-514159" wordnet_id="a-01649651" pos="JJ" sense="somewhat young" polarity="0.4" subjectivity="0.8" intensity="1.0" confidence="0.8" />
 reliability="0.9" />
 </sentiment>
